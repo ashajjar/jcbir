@@ -1,0 +1,4 @@
+jcbir
+=====
+
+Java CBIR implementation
