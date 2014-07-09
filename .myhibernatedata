@@ -1,0 +1,20 @@
+#MyEclipse Hibernate Properties
+#Tue Jul 08 15:12:15 EEST 2014
+genBasicCompId=true
+sessionFactoryName=com.hajjar.jcbir.data.session.HibernateSessionFactory
+profile=
+daoSFId=sessionFactory
+jndiPath=
+detectM2M=true
+reStrategyClass=
+detectO2O=true
+springDaoFile=src/main/java/applicationContext.xml
+useJavaTypes=true
+keyGenerator=
+genVersionTag=true
+sessionFactoryId=
+basePersistenceClass=
+genAnnotations=true
+reSettingsFile=/jcbir/hibernate.reveng.xml
+configFile=/jcbir/src/main/java/hibernate.cfg.xml
+createConfigFile=true
